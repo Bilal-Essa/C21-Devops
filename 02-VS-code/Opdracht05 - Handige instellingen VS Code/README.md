@@ -1,4 +1,4 @@
-## Handige instellingen VS Code
+  ## Handige instellingen VS Code
 
 ## Uitleg
 
